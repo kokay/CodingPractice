@@ -1,0 +1,493 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\DoItAgain">
+      <UniqueIdentifier>{5584920a-c34c-41ec-a237-5003a139e395}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\NotChecked">
+      <UniqueIdentifier>{3d396fe7-9430-4b6a-9122-787b7a230794}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="advertisingAgency.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="austrianLotto.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="autoFix.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="circuits.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="checkFunction.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="soccer.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="rollingDiceDivTwo.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="huffmanDecoding.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="colorfulRord.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="matching.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="printScheduler.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="countriesRanklist.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PaternityTest.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="wordCompositionGame.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LargestSubsequence.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ContestSchedule.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="UnderscoreJustification.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DrawingMarbels.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="nonDeterministicSubstring.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GoodString.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Animation.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="oneEntrance.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SubstitutionCipher.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PipeCuts.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Apothecary.cc">
+      <Filter>Source Files\DoItAgain</Filter>
+    </ClCompile>
+    <ClCompile Include="DivisorInc.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="OneFight.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="FairWorkload.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DivisibleByDigits.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="NumericalSequence.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Thesaurus.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GrafixCorrupt.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PowerPlants.cc">
+      <Filter>Source Files\DoItAgain</Filter>
+    </ClCompile>
+    <ClCompile Include="NumbersAndMaches.cc">
+      <Filter>Source Files\DoItAgain</Filter>
+    </ClCompile>
+    <ClCompile Include="ATaleOfThreeCities.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Abacus.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PalindromeDecoding.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DriveFailures.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="IsomorphicWords.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RedSquare.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Islands.cc">
+      <Filter>Source Files\DoItAgain</Filter>
+    </ClCompile>
+    <ClCompile Include="NumberofFiboCalls.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DigitsSum.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayGame.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="StandInLine.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CrazyBot.cc">
+      <Filter>Source Files\DoItAgain</Filter>
+    </ClCompile>
+    <ClCompile Include="Stitch.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BinaryCardinality.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Paintball.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BesTriangulation.cc">
+      <Filter>Source Files\DoItAgain</Filter>
+    </ClCompile>
+    <ClCompile Include="FanFailure.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GroceryBagger.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CountExpressions.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CellRemoval.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ClientsList.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TomekPhone.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LeaguePicks.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BusinessTasks.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Library.cc">
+      <Filter>Source Files\DoItAgain</Filter>
+    </ClCompile>
+    <ClCompile Include="FibonacciPositioning.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ParalleleppipedUnion.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TagalogDictionary.cc">
+      <Filter>Source Files\DoItAgain</Filter>
+    </ClCompile>
+    <ClCompile Include="ScrabbleBet.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ShufflingMachine.cc">
+      <Filter>Source Files\DoItAgain</Filter>
+    </ClCompile>
+    <ClCompile Include="ScheduleStrength.cc">
+      <Filter>Source Files\DoItAgain</Filter>
+    </ClCompile>
+    <ClCompile Include="Generators.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BigBurger.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SpiralRoute.cc">
+      <Filter>Source Files\DoItAgain</Filter>
+    </ClCompile>
+    <ClCompile Include="PatternOptimizer.cc">
+      <Filter>Source Files\NotChecked</Filter>
+    </ClCompile>
+    <ClCompile Include="Decipher.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LightsCube.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CarolsSinging.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="WordForm.cc">
+      <Filter>Source Files\NotChecked</Filter>
+    </ClCompile>
+    <ClCompile Include="TwoTurtledoves.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DVDPlayer.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MedalTable.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SortingGame.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PalindromeMaker.cc">
+      <Filter>Source Files\NotChecked</Filter>
+    </ClCompile>
+    <ClCompile Include="TheLuckyString.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BombSweeper.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="HealthFood.cc">
+      <Filter>Source Files\DoItAgain</Filter>
+    </ClCompile>
+    <ClCompile Include="PaperFold.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SortBooks.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PrefixFreeSets.cc">
+      <Filter>Source Files\DoItAgain</Filter>
+    </ClCompile>
+    <ClCompile Include="CmpdWords.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SRMCodingPhase.cc">
+      <Filter>Source Files\DoItAgain</Filter>
+    </ClCompile>
+    <ClCompile Include="LostParentheses.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MazeMaker.cc">
+      <Filter>Source Files\DoItAgain</Filter>
+    </ClCompile>
+    <ClCompile Include="CubeWalking.cc">
+      <Filter>Source Files\DoItAgain</Filter>
+    </ClCompile>
+    <ClCompile Include="ColoredStrokes.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SeparateConnections.cc">
+      <Filter>Source Files\DoItAgain</Filter>
+    </ClCompile>
+    <ClCompile Include="PositiveID.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RabbitNumber.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="FractionSplit.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TandemRepeats.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneralChess.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SlimeXSlimesCity.cc">
+      <Filter>Source Files\DoItAgain</Filter>
+    </ClCompile>
+    <ClCompile Include="CubeStickers.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="EelAndRabbit.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="shuffling.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MysteriousRestaurant.cc">
+      <Filter>Source Files\DoItAgain</Filter>
+    </ClCompile>
+    <ClCompile Include="CompletingBrackets.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TheMatrix.cc">
+      <Filter>Source Files\DoItAgain</Filter>
+    </ClCompile>
+    <ClCompile Include="bloggoHyphenate.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Cafeteria.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DNAString.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TrueStatements.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MatchMaking.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="WordFind.cc">
+      <Filter>Source Files\DoItAgain</Filter>
+    </ClCompile>
+    <ClCompile Include="Glossary.cc">
+      <Filter>Source Files\DoItAgain</Filter>
+    </ClCompile>
+    <ClCompile Include="KingSort.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ZigZag.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BadNeighbors.cc">
+      <Filter>Source Files\DoItAgain</Filter>
+    </ClCompile>
+    <ClCompile Include="FlowerGarden.cc">
+      <Filter>Source Files\DoItAgain</Filter>
+    </ClCompile>
+    <ClCompile Include="ShorterSupterSum.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="FibonacciDiv2.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="UnsealTheSafe.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BinarySearchable.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="EmoticonsDiv2.cc">
+      <Filter>Source Files\DoItAgain</Filter>
+    </ClCompile>
+    <ClCompile Include="NumbersChallenge.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="VocaloidsAndSongs.cc">
+      <Filter>Source Files\DoItAgain</Filter>
+    </ClCompile>
+    <ClCompile Include="RGBStreet.cc">
+      <Filter>Source Files\DoItAgain</Filter>
+    </ClCompile>
+    <ClCompile Include="TrafficCongestionDivTwo.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="QuickSums.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ThePalindrome.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TheTicketsDivTwo.cc">
+      <Filter>Source Files\DoItAgain</Filter>
+    </ClCompile>
+    <ClCompile Include="DivFreed2.cc">
+      <Filter>Source Files\DoItAgain</Filter>
+    </ClCompile>
+    <ClCompile Include="EllysCheckers.cc">
+      <Filter>Source Files\DoItAgain</Filter>
+    </ClCompile>
+    <ClCompile Include="StringWeightDiv2.cc">
+      <Filter>Source Files\DoItAgain</Filter>
+    </ClCompile>
+    <ClCompile Include="GraphLabel.cc">
+      <Filter>Source Files\DoItAgain</Filter>
+    </ClCompile>
+    <ClCompile Include="BirdsCounting.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MutaliskEasy.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Quorum.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="grafixMask.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Dubs.cc">
+      <Filter>Source Files\DoItAgain</Filter>
+    </ClCompile>
+    <ClCompile Include="MakeUnique.cc">
+      <Filter>Source Files\DoItAgain</Filter>
+    </ClCompile>
+    <ClCompile Include="ReportAccess.cc">
+      <Filter>Source Files\DoItAgain</Filter>
+    </ClCompile>
+    <ClCompile Include="TemplateMatching.cc">
+      <Filter>Source Files\DoItAgain</Filter>
+    </ClCompile>
+    <ClCompile Include="first.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RepeatStringEasy.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ChooseTheBestOne.cc">
+      <Filter>Source Files\DoItAgain</Filter>
+    </ClCompile>
+    <ClCompile Include="MagicWords.cc">
+      <Filter>Source Files\DoItAgain</Filter>
+    </ClCompile>
+    <ClCompile Include="DistinguishableSetDiv2.cc">
+      <Filter>Source Files\DoItAgain</Filter>
+    </ClCompile>
+    <ClCompile Include="Afffix.cc">
+      <Filter>Source Files\DoItAgain</Filter>
+    </ClCompile>
+    <ClCompile Include="ChangingSounds.cc">
+      <Filter>Source Files\DoItAgain</Filter>
+    </ClCompile>
+    <ClCompile Include="NoRepeatPlaylist.cc">
+      <Filter>Source Files\DoItAgain</Filter>
+    </ClCompile>
+    <ClCompile Include="BearPasswordAny.cc">
+      <Filter>Source Files\DoItAgain</Filter>
+    </ClCompile>
+    <ClCompile Include="WhiteHats.cc">
+      <Filter>Source Files\DoItAgain</Filter>
+    </ClCompile>
+    <ClCompile Include="VolumeGuess.cc">
+      <Filter>Source Files\DoItAgain</Filter>
+    </ClCompile>
+    <ClCompile Include="VolumeDiscount.cc">
+      <Filter>Source Files\DoItAgain</Filter>
+    </ClCompile>
+    <ClCompile Include="Arrows.cc">
+      <Filter>Source Files\DoItAgain</Filter>
+    </ClCompile>
+    <ClCompile Include="CollectingRiders.cc">
+      <Filter>Source Files\DoItAgain</Filter>
+    </ClCompile>
+    <ClCompile Include="CorporationSalary.cc">
+      <Filter>Source Files\DoItAgain</Filter>
+    </ClCompile>
+    <ClCompile Include="BrokenClock.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="one.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="FromToDivisibleDiv2.cc">
+      <Filter>Source Files\DoItAgain</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

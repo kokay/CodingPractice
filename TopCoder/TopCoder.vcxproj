@@ -1,0 +1,277 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{B141890A-098C-4F19-905C-98A5BA6EBA5B}</ProjectGuid>
+    <RootNamespace>TopCoder</RootNamespace>
+    <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v140</PlatformToolset>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v140</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v140</PlatformToolset>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v140</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="Shared">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup />
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <SDLCheck>true</SDLCheck>
+    </ClCompile>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <SDLCheck>true</SDLCheck>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <StackReserveSize>100000000</StackReserveSize>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+    </ClCompile>
+    <Link>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+    </ClCompile>
+    <Link>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClCompile Include="Abacus.cc" />
+    <ClCompile Include="advertisingAgency.cc" />
+    <ClCompile Include="Afffix.cc" />
+    <ClCompile Include="Animation.cc" />
+    <ClCompile Include="Apothecary.cc" />
+    <ClCompile Include="Arrows.cc" />
+    <ClCompile Include="ATaleOfThreeCities.cc" />
+    <ClCompile Include="austrianLotto.cc" />
+    <ClCompile Include="autoFix.cc" />
+    <ClCompile Include="BadNeighbors.cc" />
+    <ClCompile Include="BearPasswordAny.cc" />
+    <ClCompile Include="BesTriangulation.cc" />
+    <ClCompile Include="BigBurger.cc" />
+    <ClCompile Include="BinaryCardinality.cc" />
+    <ClCompile Include="BinarySearchable.cc" />
+    <ClCompile Include="BirdsCounting.cc" />
+    <ClCompile Include="bloggoHyphenate.cc" />
+    <ClCompile Include="BombSweeper.cc" />
+    <ClCompile Include="BrokenClock.cc" />
+    <ClCompile Include="BusinessTasks.cc" />
+    <ClCompile Include="Cafeteria.cc" />
+    <ClCompile Include="CarolsSinging.cc" />
+    <ClCompile Include="CellRemoval.cc" />
+    <ClCompile Include="ChangingSounds.cc" />
+    <ClCompile Include="checkFunction.cc" />
+    <ClCompile Include="ChooseTheBestOne.cc" />
+    <ClCompile Include="circuits.cc" />
+    <ClCompile Include="ClientsList.cc" />
+    <ClCompile Include="CmpdWords.cc" />
+    <ClCompile Include="CollectingRiders.cc" />
+    <ClCompile Include="ColoredStrokes.cc" />
+    <ClCompile Include="colorfulRord.cc" />
+    <ClCompile Include="CompletingBrackets.cc" />
+    <ClCompile Include="ContestSchedule.cc" />
+    <ClCompile Include="CorporationSalary.cc" />
+    <ClCompile Include="CountExpressions.cc" />
+    <ClCompile Include="countriesRanklist.cc" />
+    <ClCompile Include="CrazyBot.cc" />
+    <ClCompile Include="CubeStickers.cc" />
+    <ClCompile Include="CubeWalking.cc" />
+    <ClCompile Include="Decipher.cc" />
+    <ClCompile Include="DigitsSum.cc" />
+    <ClCompile Include="DistinguishableSetDiv2.cc" />
+    <ClCompile Include="DivFreed2.cc" />
+    <ClCompile Include="DivisibleByDigits.cc" />
+    <ClCompile Include="DivisorInc.cc" />
+    <ClCompile Include="DNAString.cc" />
+    <ClCompile Include="DrawingMarbels.cc" />
+    <ClCompile Include="DriveFailures.cc" />
+    <ClCompile Include="Dubs.cc" />
+    <ClCompile Include="DVDPlayer.cc" />
+    <ClCompile Include="EelAndRabbit.cc" />
+    <ClCompile Include="EllysCheckers.cc" />
+    <ClCompile Include="EmoticonsDiv2.cc" />
+    <ClCompile Include="FairWorkload.cc" />
+    <ClCompile Include="FanFailure.cc" />
+    <ClCompile Include="FibonacciDiv2.cc" />
+    <ClCompile Include="FibonacciPositioning.cc" />
+    <ClCompile Include="first.cc" />
+    <ClCompile Include="FlowerGarden.cc" />
+    <ClCompile Include="FractionSplit.cc" />
+    <ClCompile Include="FromToDivisibleDiv2.cc" />
+    <ClCompile Include="GeneralChess.cc" />
+    <ClCompile Include="Generators.cc" />
+    <ClCompile Include="Glossary.cc" />
+    <ClCompile Include="GoodString.cc" />
+    <ClCompile Include="GrafixCorrupt.cc" />
+    <ClCompile Include="grafixMask.cc" />
+    <ClCompile Include="GraphLabel.cc" />
+    <ClCompile Include="GroceryBagger.cc" />
+    <ClCompile Include="HealthFood.cc" />
+    <ClCompile Include="huffmanDecoding.cc" />
+    <ClCompile Include="Islands.cc" />
+    <ClCompile Include="IsomorphicWords.cc" />
+    <ClCompile Include="KingSort.cc" />
+    <ClCompile Include="LargestSubsequence.cc" />
+    <ClCompile Include="LeaguePicks.cc" />
+    <ClCompile Include="Library.cc" />
+    <ClCompile Include="LightsCube.cc" />
+    <ClCompile Include="LostParentheses.cc" />
+    <ClCompile Include="MagicWords.cc" />
+    <ClCompile Include="MakeUnique.cc" />
+    <ClCompile Include="matching.cc" />
+    <ClCompile Include="MatchMaking.cc" />
+    <ClCompile Include="MazeMaker.cc" />
+    <ClCompile Include="MedalTable.cc" />
+    <ClCompile Include="MutaliskEasy.cc" />
+    <ClCompile Include="MysteriousRestaurant.cc" />
+    <ClCompile Include="nonDeterministicSubstring.cc" />
+    <ClCompile Include="NoRepeatPlaylist.cc" />
+    <ClCompile Include="NumberofFiboCalls.cc" />
+    <ClCompile Include="NumbersAndMaches.cc" />
+    <ClCompile Include="NumbersChallenge.cc" />
+    <ClCompile Include="NumericalSequence.cc" />
+    <ClCompile Include="one.cc" />
+    <ClCompile Include="oneEntrance.cc" />
+    <ClCompile Include="OneFight.cc" />
+    <ClCompile Include="Paintball.cc" />
+    <ClCompile Include="PalindromeDecoding.cc" />
+    <ClCompile Include="PalindromeMaker.cc" />
+    <ClCompile Include="PaperFold.cc" />
+    <ClCompile Include="ParalleleppipedUnion.cc" />
+    <ClCompile Include="PaternityTest.cc" />
+    <ClCompile Include="PatternOptimizer.cc" />
+    <ClCompile Include="PipeCuts.cc" />
+    <ClCompile Include="PlayGame.cc" />
+    <ClCompile Include="PositiveID.cc" />
+    <ClCompile Include="PowerPlants.cc" />
+    <ClCompile Include="PrefixFreeSets.cc" />
+    <ClCompile Include="printScheduler.cc" />
+    <ClCompile Include="QuickSums.cc" />
+    <ClCompile Include="Quorum.cc" />
+    <ClCompile Include="RabbitNumber.cc" />
+    <ClCompile Include="RedSquare.cc" />
+    <ClCompile Include="ReportAccess.cc" />
+    <ClCompile Include="RGBStreet.cc" />
+    <ClCompile Include="rollingDiceDivTwo.cc" />
+    <ClCompile Include="ScheduleStrength.cc" />
+    <ClCompile Include="ScrabbleBet.cc" />
+    <ClCompile Include="RepeatStringEasy.cc" />
+    <ClCompile Include="SeparateConnections.cc" />
+    <ClCompile Include="ShorterSupterSum.cc" />
+    <ClCompile Include="shuffling.cc" />
+    <ClCompile Include="ShufflingMachine.cc" />
+    <ClCompile Include="SlimeXSlimesCity.cc" />
+    <ClCompile Include="soccer.cc" />
+    <ClCompile Include="SortBooks.cc" />
+    <ClCompile Include="SortingGame.cc" />
+    <ClCompile Include="SpiralRoute.cc" />
+    <ClCompile Include="SRMCodingPhase.cc" />
+    <ClCompile Include="StandInLine.cc" />
+    <ClCompile Include="Stitch.cc" />
+    <ClCompile Include="StringWeightDiv2.cc" />
+    <ClCompile Include="SubstitutionCipher.cc" />
+    <ClCompile Include="TagalogDictionary.cc" />
+    <ClCompile Include="TandemRepeats.cc" />
+    <ClCompile Include="TemplateMatching.cc" />
+    <ClCompile Include="TheLuckyString.cc" />
+    <ClCompile Include="TheMatrix.cc" />
+    <ClCompile Include="ThePalindrome.cc" />
+    <ClCompile Include="Thesaurus.cc" />
+    <ClCompile Include="TheTicketsDivTwo.cc" />
+    <ClCompile Include="TomekPhone.cc" />
+    <ClCompile Include="TrafficCongestionDivTwo.cc" />
+    <ClCompile Include="TrueStatements.cc" />
+    <ClCompile Include="TwoTurtledoves.cc" />
+    <ClCompile Include="UnderscoreJustification.cc" />
+    <ClCompile Include="UnsealTheSafe.cc" />
+    <ClCompile Include="VocaloidsAndSongs.cc" />
+    <ClCompile Include="VolumeDiscount.cc" />
+    <ClCompile Include="VolumeGuess.cc" />
+    <ClCompile Include="WhiteHats.cc" />
+    <ClCompile Include="wordCompositionGame.cc" />
+    <ClCompile Include="WordFind.cc" />
+    <ClCompile Include="WordForm.cc" />
+    <ClCompile Include="ZigZag.cc" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>
