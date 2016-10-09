@@ -46,8 +46,3 @@ public:
     return false;
   }
 };
-
-int main() {
-  FromToDivisibleDiv2 f;
-  f.shortest(11, 9, 6, { 3, 10 }, { 5, 2 });
-}

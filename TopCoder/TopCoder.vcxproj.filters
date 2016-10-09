@@ -19,6 +19,15 @@
     <Filter Include="Source Files\NotChecked">
       <UniqueIdentifier>{3d396fe7-9430-4b6a-9122-787b7a230794}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\ForMeeting">
+      <UniqueIdentifier>{2314d403-a1c2-4951-baa0-6cb037070e7f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\ForMeeting\String">
+      <UniqueIdentifier>{666294bb-0adc-4605-989e-9109cfa8a2be}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\ForMeeting\BinarySearch">
+      <UniqueIdentifier>{284604c8-02c2-4727-9909-57130c0e5df9}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="advertisingAgency.cc">
@@ -488,6 +497,15 @@
     </ClCompile>
     <ClCompile Include="FromToDivisibleDiv2.cc">
       <Filter>Source Files\DoItAgain</Filter>
+    </ClCompile>
+    <ClCompile Include="SMSLanguage.cc">
+      <Filter>Source Files\ForMeeting\String</Filter>
+    </ClCompile>
+    <ClCompile Include="AccessChanger.cc">
+      <Filter>Source Files\ForMeeting\String</Filter>
+    </ClCompile>
+    <ClCompile Include="LastDigit.cc">
+      <Filter>Source Files\ForMeeting\BinarySearch</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

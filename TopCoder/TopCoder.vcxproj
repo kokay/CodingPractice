@@ -115,6 +115,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Abacus.cc" />
+    <ClCompile Include="AccessChanger.cc" />
     <ClCompile Include="advertisingAgency.cc" />
     <ClCompile Include="Afffix.cc" />
     <ClCompile Include="Animation.cc" />
@@ -190,6 +191,7 @@
     <ClCompile Include="IsomorphicWords.cc" />
     <ClCompile Include="KingSort.cc" />
     <ClCompile Include="LargestSubsequence.cc" />
+    <ClCompile Include="LastDigit.cc" />
     <ClCompile Include="LeaguePicks.cc" />
     <ClCompile Include="Library.cc" />
     <ClCompile Include="LightsCube.cc" />
@@ -239,6 +241,7 @@
     <ClCompile Include="shuffling.cc" />
     <ClCompile Include="ShufflingMachine.cc" />
     <ClCompile Include="SlimeXSlimesCity.cc" />
+    <ClCompile Include="SMSLanguage.cc" />
     <ClCompile Include="soccer.cc" />
     <ClCompile Include="SortBooks.cc" />
     <ClCompile Include="SortingGame.cc" />
