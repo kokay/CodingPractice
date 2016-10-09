@@ -224,6 +224,7 @@
     <ClCompile Include="PlayGame.cc" />
     <ClCompile Include="PositiveID.cc" />
     <ClCompile Include="PowerPlants.cc" />
+    <ClCompile Include="PrefixCode.cc" />
     <ClCompile Include="PrefixFreeSets.cc" />
     <ClCompile Include="printScheduler.cc" />
     <ClCompile Include="QuickSums.cc" />

@@ -507,5 +507,8 @@
     <ClCompile Include="LastDigit.cc">
       <Filter>Source Files\ForMeeting\BinarySearch</Filter>
     </ClCompile>
+    <ClCompile Include="PrefixCode.cc">
+      <Filter>Source Files\ForMeeting\String</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
