@@ -28,6 +28,12 @@
     <Filter Include="Source Files\ForMeeting\BinarySearch">
       <UniqueIdentifier>{284604c8-02c2-4727-9909-57130c0e5df9}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\ForMeeting\DynamicProgramming">
+      <UniqueIdentifier>{57985984-95df-4339-8e91-729d48fbe9e8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Tmp">
+      <UniqueIdentifier>{a6ebef51-c139-4830-bd28-2fb6976ccc9a}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="advertisingAgency.cc">
@@ -444,9 +450,6 @@
     <ClCompile Include="TemplateMatching.cc">
       <Filter>Source Files\DoItAgain</Filter>
     </ClCompile>
-    <ClCompile Include="first.cc">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="RepeatStringEasy.cc">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -492,9 +495,6 @@
     <ClCompile Include="BrokenClock.cc">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="one.cc">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="FromToDivisibleDiv2.cc">
       <Filter>Source Files\DoItAgain</Filter>
     </ClCompile>
@@ -509,6 +509,21 @@
     </ClCompile>
     <ClCompile Include="PrefixCode.cc">
       <Filter>Source Files\ForMeeting\String</Filter>
+    </ClCompile>
+    <ClCompile Include="PikachuEasy.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PrimeSoccer.cc">
+      <Filter>Source Files\ForMeeting\DynamicProgramming</Filter>
+    </ClCompile>
+    <ClCompile Include="Pronunciation.cc">
+      <Filter>Source Files\ForMeeting\String</Filter>
+    </ClCompile>
+    <ClCompile Include="b.cc">
+      <Filter>Source Files\Tmp</Filter>
+    </ClCompile>
+    <ClCompile Include="a.cc">
+      <Filter>Source Files\Tmp</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

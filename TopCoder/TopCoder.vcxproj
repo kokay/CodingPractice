@@ -114,6 +114,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="a.cc" />
     <ClCompile Include="Abacus.cc" />
     <ClCompile Include="AccessChanger.cc" />
     <ClCompile Include="advertisingAgency.cc" />
@@ -124,6 +125,7 @@
     <ClCompile Include="ATaleOfThreeCities.cc" />
     <ClCompile Include="austrianLotto.cc" />
     <ClCompile Include="autoFix.cc" />
+    <ClCompile Include="b.cc" />
     <ClCompile Include="BadNeighbors.cc" />
     <ClCompile Include="BearPasswordAny.cc" />
     <ClCompile Include="BesTriangulation.cc" />
@@ -173,7 +175,6 @@
     <ClCompile Include="FanFailure.cc" />
     <ClCompile Include="FibonacciDiv2.cc" />
     <ClCompile Include="FibonacciPositioning.cc" />
-    <ClCompile Include="first.cc" />
     <ClCompile Include="FlowerGarden.cc" />
     <ClCompile Include="FractionSplit.cc" />
     <ClCompile Include="FromToDivisibleDiv2.cc" />
@@ -210,7 +211,6 @@
     <ClCompile Include="NumbersAndMaches.cc" />
     <ClCompile Include="NumbersChallenge.cc" />
     <ClCompile Include="NumericalSequence.cc" />
-    <ClCompile Include="one.cc" />
     <ClCompile Include="oneEntrance.cc" />
     <ClCompile Include="OneFight.cc" />
     <ClCompile Include="Paintball.cc" />
@@ -220,13 +220,16 @@
     <ClCompile Include="ParalleleppipedUnion.cc" />
     <ClCompile Include="PaternityTest.cc" />
     <ClCompile Include="PatternOptimizer.cc" />
+    <ClCompile Include="PikachuEasy.cc" />
     <ClCompile Include="PipeCuts.cc" />
     <ClCompile Include="PlayGame.cc" />
     <ClCompile Include="PositiveID.cc" />
     <ClCompile Include="PowerPlants.cc" />
     <ClCompile Include="PrefixCode.cc" />
     <ClCompile Include="PrefixFreeSets.cc" />
+    <ClCompile Include="PrimeSoccer.cc" />
     <ClCompile Include="printScheduler.cc" />
+    <ClCompile Include="Pronunciation.cc" />
     <ClCompile Include="QuickSums.cc" />
     <ClCompile Include="Quorum.cc" />
     <ClCompile Include="RabbitNumber.cc" />
