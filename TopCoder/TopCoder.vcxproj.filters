@@ -34,6 +34,15 @@
     <Filter Include="Source Files\Tmp">
       <UniqueIdentifier>{a6ebef51-c139-4830-bd28-2fb6976ccc9a}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\ForMeeting\Sorting">
+      <UniqueIdentifier>{7db93154-b5da-40db-96f8-a73c89b7d41e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\ForMeeting\Seaching">
+      <UniqueIdentifier>{e2ba1ac4-0c42-40da-9803-34a4f9ab22ef}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\ForMeeting\SimpleMath/Math">
+      <UniqueIdentifier>{5cf23d3f-ef40-4176-bd6a-a8d2e5dbe2c8}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="advertisingAgency.cc">
@@ -519,11 +528,23 @@
     <ClCompile Include="Pronunciation.cc">
       <Filter>Source Files\ForMeeting\String</Filter>
     </ClCompile>
-    <ClCompile Include="b.cc">
+    <ClCompile Include="Xylophone.cc">
       <Filter>Source Files\Tmp</Filter>
     </ClCompile>
-    <ClCompile Include="a.cc">
+    <ClCompile Include="XMarksTheSpot.cc">
       <Filter>Source Files\Tmp</Filter>
+    </ClCompile>
+    <ClCompile Include="LetterStrings.cc">
+      <Filter>Source Files\ForMeeting\String</Filter>
+    </ClCompile>
+    <ClCompile Include="Highscore.cc">
+      <Filter>Source Files\ForMeeting\Sorting</Filter>
+    </ClCompile>
+    <ClCompile Include="SwimmersDelight.cc">
+      <Filter>Source Files\ForMeeting\Seaching</Filter>
+    </ClCompile>
+    <ClCompile Include="Chessboard.cc">
+      <Filter>Source Files\ForMeeting\SimpleMath/Math</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

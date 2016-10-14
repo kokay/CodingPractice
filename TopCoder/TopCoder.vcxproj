@@ -114,7 +114,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="a.cc" />
+    <ClCompile Include="Chessboard.cc" />
+    <ClCompile Include="Highscore.cc" />
+    <ClCompile Include="LetterStrings.cc" />
+    <ClCompile Include="SwimmersDelight.cc" />
+    <ClCompile Include="Xylophone.cc" />
     <ClCompile Include="Abacus.cc" />
     <ClCompile Include="AccessChanger.cc" />
     <ClCompile Include="advertisingAgency.cc" />
@@ -125,7 +129,7 @@
     <ClCompile Include="ATaleOfThreeCities.cc" />
     <ClCompile Include="austrianLotto.cc" />
     <ClCompile Include="autoFix.cc" />
-    <ClCompile Include="b.cc" />
+    <ClCompile Include="XMarksTheSpot.cc" />
     <ClCompile Include="BadNeighbors.cc" />
     <ClCompile Include="BearPasswordAny.cc" />
     <ClCompile Include="BesTriangulation.cc" />
