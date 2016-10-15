@@ -43,6 +43,9 @@
     <Filter Include="Source Files\ForMeeting\SimpleMath/Math">
       <UniqueIdentifier>{5cf23d3f-ef40-4176-bd6a-a8d2e5dbe2c8}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\ForMeeting\Simulation">
+      <UniqueIdentifier>{08824487-4f65-497e-8f66-71ad9ead88fc}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="advertisingAgency.cc">
@@ -545,6 +548,12 @@
     </ClCompile>
     <ClCompile Include="Chessboard.cc">
       <Filter>Source Files\ForMeeting\SimpleMath/Math</Filter>
+    </ClCompile>
+    <ClCompile Include="PaperRockScisQuals.cc">
+      <Filter>Source Files\ForMeeting\Simulation</Filter>
+    </ClCompile>
+    <ClCompile Include="CuttingBitString.cc">
+      <Filter>Source Files\ForMeeting\DynamicProgramming</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

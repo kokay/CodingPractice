@@ -115,8 +115,10 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Chessboard.cc" />
+    <ClCompile Include="CuttingBitString.cc" />
     <ClCompile Include="Highscore.cc" />
     <ClCompile Include="LetterStrings.cc" />
+    <ClCompile Include="PaperRockScisQuals.cc" />
     <ClCompile Include="SwimmersDelight.cc" />
     <ClCompile Include="Xylophone.cc" />
     <ClCompile Include="Abacus.cc" />
