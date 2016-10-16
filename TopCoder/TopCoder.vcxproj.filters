@@ -555,5 +555,8 @@
     <ClCompile Include="CuttingBitString.cc">
       <Filter>Source Files\ForMeeting\DynamicProgramming</Filter>
     </ClCompile>
+    <ClCompile Include="EllysCoprimesDiv2.cc">
+      <Filter>Source Files\ForMeeting\DynamicProgramming</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

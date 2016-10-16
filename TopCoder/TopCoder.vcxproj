@@ -116,6 +116,7 @@
   <ItemGroup>
     <ClCompile Include="Chessboard.cc" />
     <ClCompile Include="CuttingBitString.cc" />
+    <ClCompile Include="EllysCoprimesDiv2.cc" />
     <ClCompile Include="Highscore.cc" />
     <ClCompile Include="LetterStrings.cc" />
     <ClCompile Include="PaperRockScisQuals.cc" />
