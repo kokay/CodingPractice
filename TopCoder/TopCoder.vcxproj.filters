@@ -46,6 +46,12 @@
     <Filter Include="Source Files\ForMeeting\Simulation">
       <UniqueIdentifier>{08824487-4f65-497e-8f66-71ad9ead88fc}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\ForMeeting\Graph">
+      <UniqueIdentifier>{da2a1e4d-1d36-4646-885b-5d885b367de2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\LeetCode">
+      <UniqueIdentifier>{639c604a-715f-431c-8e34-a2a8f54c493c}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="advertisingAgency.cc">
@@ -556,7 +562,22 @@
       <Filter>Source Files\ForMeeting\DynamicProgramming</Filter>
     </ClCompile>
     <ClCompile Include="EllysCoprimesDiv2.cc">
-      <Filter>Source Files\ForMeeting\DynamicProgramming</Filter>
+      <Filter>Source Files\ForMeeting\Graph</Filter>
+    </ClCompile>
+    <ClCompile Include="3Sum.cc">
+      <Filter>Source Files\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="LittleElephantAndDouble.cc">
+      <Filter>Source Files\ForMeeting</Filter>
+    </ClCompile>
+    <ClCompile Include="FriendScore.cc">
+      <Filter>Source Files\ForMeeting\Graph</Filter>
+    </ClCompile>
+    <ClCompile Include="CableDonation.cc">
+      <Filter>Source Files\ForMeeting\Graph</Filter>
+    </ClCompile>
+    <ClCompile Include="BombMan.cc">
+      <Filter>Source Files\ForMeeting\Graph</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

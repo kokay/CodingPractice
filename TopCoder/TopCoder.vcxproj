@@ -114,11 +114,16 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="3Sum.cc" />
+    <ClCompile Include="BombMan.cc" />
+    <ClCompile Include="CableDonation.cc" />
     <ClCompile Include="Chessboard.cc" />
     <ClCompile Include="CuttingBitString.cc" />
     <ClCompile Include="EllysCoprimesDiv2.cc" />
+    <ClCompile Include="FriendScore.cc" />
     <ClCompile Include="Highscore.cc" />
     <ClCompile Include="LetterStrings.cc" />
+    <ClCompile Include="LittleElephantAndDouble.cc" />
     <ClCompile Include="PaperRockScisQuals.cc" />
     <ClCompile Include="SwimmersDelight.cc" />
     <ClCompile Include="Xylophone.cc" />
